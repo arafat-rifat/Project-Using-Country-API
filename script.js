@@ -48,4 +48,4 @@ const getCountryData = function (country) {
 getCountryData('Bangladesh');
 getCountryData('usa');
 getCountryData('portugal');
-getCountryData('France');
+getCountryData('india');
